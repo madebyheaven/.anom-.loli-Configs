@@ -1,4 +1,10 @@
-Hi there 👋
+
+# Silverbullet /.anom Configs
+
 In this repository, Silverbullet Configs are posted which are developed/fixed only by @madebyheaven.
-Enjoy Cracking. :)
+
+## What if configs are not working?
+Simply open up a pull request.
+
+
 
