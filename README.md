@@ -1,5 +1,5 @@
 
-# Silverbullet /.anom Configs
+# Silverbullet /.svb Configs
 
 In this repository, Silverbullet Configs are posted which are developed/fixed only by @madebyheaven.
 
