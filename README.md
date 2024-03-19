@@ -6,9 +6,6 @@ In this repository, Silverbullet Configs are posted which are developed/fixed on
 ## List of Configs and Info:
 1- Numerade.com | Find Video Solutions for STEM Textbook Questions
 
-## What if configs are not working?
-Simply open up a pull request.
-
 
 
 
